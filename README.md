@@ -23,7 +23,6 @@ Kumpulan notebook **Data Science & Machine Learning** karya **Laurentius Arlana 
 | [IndoBERT Fine-tuning](nlp/base-indobert-full.ipynb) | Fine-tuning **transformer IndoBERT** untuk teks Bahasa Indonesia + ensembling | PyTorch · HuggingFace Transformers · LightGBM |
 | [NLP EDA](nlp/nlp-eda.ipynb) | EDA teks mendukung baseline klasik & RNN/CNN (no pretrained) | scikit-learn · Matplotlib |
 | [TF-IDF Text Template](nlp/nlp-gm.ipynb) | Template text classification/regression berbasis **TF-IDF** (auto-detect kolom) | scikit-learn |
-| [Knowledge Graph & NLP](nlp/knowledge-graph-nlp-tutorial-bert-spacy-nltk.ipynb) 📚 | *Study* — knowledge graph + NLP (BERT, spaCy, NLTK, networkx). Berdasarkan tutorial publik. | spaCy · NLTK · networkx · BERT |
 
 ## 📈 Tabular ML
 
@@ -31,7 +30,6 @@ Kumpulan notebook **Data Science & Machine Learning** karya **Laurentius Arlana 
 |---|---|---|
 | [Tabular Baseline Template](tabular/tabular.ipynb) | Template ML tabular: auto-discovery data, prep numeric/categorical, **XGBoost/LightGBM/CatBoost** | scikit-learn · XGBoost · LightGBM · CatBoost |
 | [Titanic Survival](tabular/titanic-learning.ipynb) | Prediksi survival Titanic — fundamental ML | scikit-learn |
-| [Spaceship Titanic](tabular/space-titanic-learning.ipynb) | Data exploration kompetisi Spaceship Titanic | pandas · numpy |
 
 ## 🏆 Competition
 
@@ -39,9 +37,7 @@ Kumpulan notebook **Data Science & Machine Learning** karya **Laurentius Arlana 
 |---|---|---|
 | [Full Tabular Pipeline](competitions/public-0-47043.ipynb) | Pipeline lengkap tabular (submission, public score **0.47043**) | numpy · scikit-learn |
 | [EDA — DSC MCF ITB 2026](competitions/eda-claireobscur-dsc-mcf-itb-2026.ipynb) | EDA kompetisi asuransi kesehatan (AXA) — tim *Clair Obscur* | pandas · seaborn |
-| [MCF ITB](competitions/mcf-itb.ipynb) | Eksplorasi kompetisi MCF ITB | pandas |
 | [IT Fest Unpad](competitions/itfest-unpad.ipynb) | EDA kompetisi IT Fest Unpad | pandas · seaborn |
-| [LOGIKA UI 2025](competitions/logika-ui-2025.ipynb) | Kompetisi LOGIKA UI 2025 (CV/PyTorch) | PyTorch |
 
 ---
 
